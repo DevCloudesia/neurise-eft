@@ -1,0 +1,64 @@
+﻿Executive Function Assessment Scale
+1. Cognitive Flexibility
+1. When plans change, I quickly adapt and come up with alternative solutions.
+2. I can easily switch from leisure activities to focused learning tasks.
+3. When facing difficult problems, I try different approaches or perspectives.
+4. I'm open to hearing opinions that differ from my own.
+5. I look at problems flexibly and don't get stuck on one way of thinking.
+6. When encountering new situations, I can quickly adjust my approach.
+2. Metacognition
+1. I have a clear understanding of my strengths and areas that need improvement.
+2. Before starting a task, I think about the most efficient way to complete it.
+3. During tasks, I adjust my strategies if they're not working well.
+4. After completing tasks, I reflect on how I could do better next time.
+5. I'm aware of how my emotions affect my performance.
+6. I know which habits help me accomplish tasks more effectively.
+3. Working Memory
+1. I can remember multi-step instructions and complete them in order.
+2. When listening to stories, I retain the important details and plot points.
+3. I can quickly apply newly learned information or skills.
+4. I rarely get stuck because I've forgotten important details while working.
+5. I can manage information from several tasks simultaneously.
+6. When reading articles, I remember the key points rather than forgetting as I go.
+4. Organization
+1. I keep my belongings neat and organized so I can find them easily.
+2. I gather all necessary materials before starting a task.
+3. When planning tasks, I consider which should be done first and which can wait.
+4. I approach tasks systematically without feeling overwhelmed or chaotic.
+5. My backpack, desk, and room are usually tidy and well-organized.
+6. I follow clear, logical steps when completing tasks.
+5. Emotional Regulation
+1. When I'm upset, I know how to calm myself down effectively.
+2. When facing criticism or failure, I can gradually regain my composure.
+3. I express my emotions appropriately rather than keeping them bottled up.
+4. I understand that my emotions can impact how well I perform tasks.
+5. In stressful situations, I can manage my emotions and stay in control.
+6. When facing setbacks, I can encourage myself to keep trying.
+6. Inhibitory & Impulse Control
+1. I think about potential consequences before making decisions.
+2. When studying, I can resist distractions and stay focused.
+3. I complete tasks before allowing myself to take breaks or relax.
+4. I don't impulsively interrupt others when they're speaking or working.
+5. I can resist doing things I want to do but know are inappropriate.
+6. When faced with temptations, I can prioritize important tasks first.
+7. Task Initiation & Motivation
+1. I start tasks on my own without needing reminders from others.
+2. I believe that effort and hard work help me achieve my goals.
+3. When facing challenges, I don't give up easily.
+4. Even when I don't enjoy a task, I can motivate myself to begin.
+5. I set goals for myself and work steadily toward achieving them.
+6. I maintain momentum when working and rarely abandon tasks halfway through.
+8. Sustained Attention
+1. I can focus on a single task for extended periods of time.
+2. Even in distracting environments, I can maintain my concentration.
+3. I finish one task completely before moving on to the next.
+4. I rarely lose focus and can maintain concentration throughout tasks.
+5. When my attention does wander, I can quickly refocus on what I'm doing.
+6. I stay on task without getting sidetracked by other activities.
+9. Time Management
+1. I complete tasks on time because I value and manage my time well.
+2. I balance my daily schedule between work/study and rest effectively.
+3. I prioritize important tasks and handle them first.
+4. I can accurately estimate how long tasks will take to complete.
+5. I don't procrastinate or leave things until the last minute.
+6. I can flexibly adjust my schedule based on time constraints and priorities.

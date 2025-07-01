@@ -2,7 +2,7 @@
   "name": "ef-test",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/neurise-eft",
+  "homepage": "https://DevCloudesia.github.io/neurise-eft",
   "dependencies": {
     "html2canvas": "^1.4.1",
     "jspdf": "^3.0.1",

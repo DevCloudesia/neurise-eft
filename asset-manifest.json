@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/neurise-eft/static/css/main.db082d36.css",
+    "main.js": "/neurise-eft/static/js/main.dd1db42f.js",
+    "static/js/977.d86b3d89.chunk.js": "/neurise-eft/static/js/977.d86b3d89.chunk.js",
+    "static/js/732.a3e42493.chunk.js": "/neurise-eft/static/js/732.a3e42493.chunk.js",
+    "index.html": "/neurise-eft/index.html",
+    "main.db082d36.css.map": "/neurise-eft/static/css/main.db082d36.css.map",
+    "main.dd1db42f.js.map": "/neurise-eft/static/js/main.dd1db42f.js.map",
+    "977.d86b3d89.chunk.js.map": "/neurise-eft/static/js/977.d86b3d89.chunk.js.map",
+    "732.a3e42493.chunk.js.map": "/neurise-eft/static/js/732.a3e42493.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db082d36.css",
+    "static/js/main.dd1db42f.js"
+  ]
+}
